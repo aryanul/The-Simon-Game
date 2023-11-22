@@ -1,5 +1,5 @@
 
-alert("In this game the computer will show you the color to click and you have to click those but as your level increases you have to remember all the colors you have clicked in preious level in the respective pattern and then click on the color of current level. Enjoy :)")
+alert("In this game Simon will show you the color to click and you have to click those but as your level increases you have to remember all the colors you have clicked in preious level in the respective pattern and then click on the color of current level. Enjoy :)")
 
 var buttonColors = ["red","blue","green","yellow"];
 var gamePattern= [];
