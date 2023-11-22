@@ -51,3 +51,18 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+.hide{
+  visibility: hidden;
+}
+.start{
+  background-color: transparent;
+  height: 60px;
+  width: 130px;
+  border-radius: 20px;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 20px;
+  font-weight:900;
+  color: #FEF2BF;
+  cursor: pointer;
+  border: 2px solid #FEF2BF;
+}
