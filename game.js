@@ -57,10 +57,10 @@ function checkAnswer(currentLevel){
             $("body").removeClass("game-over")
         },200);
         playSound("wrong");
-        $("h1").text("Game Over, Press Any Key or the Button Below to Restart");
+        $("h1").text("Game Over, Press 'r' or the Button Below to Restart");
         $(".start").removeClass('hide').text("Restart").css("width","150px");
 
-        //startOver();
+        startOver();
     }
 }
 
